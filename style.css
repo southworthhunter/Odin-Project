@@ -1,5 +1,72 @@
-img {
-    width: 100px;
+#logo {
+    width: 300px;
     height: 100px;
-    padding: 100px;
+    padding-top: 100px;
+    padding-left: 400px;
 }
+.signin {
+    background-color:rgb(0,105,255);
+    color: white;
+    padding: 8px 12px;
+    float: right;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 28px;
+
+}
+.button {
+    text-align: center;
+    font-size: 16px;
+    padding: 8px 18px;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: none;
+    background-color: lightgray;
+}
+ul {list-style-type: none;
+
+overflow: hidden;
+}
+li {
+    float: right;
+}
+.toplink {
+   
+    display: block;
+    text-align: center;
+    padding: 12px;
+    margin-top: 30px;
+    text-decoration: none;
+}
+#dots {
+    display: block;
+    padding: 8px;
+    margin-top: 24px;
+    width: 35px;
+    height: 30px;
+}
+input {
+    border: none;
+    margin-left: 50px;
+    width: 500px;
+    height: 25px;
+    font-size: 2em;
+    margin-top: 25px;
+    padding: 5px;
+}
+#inputbar {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+div.searchlucky {
+    margin-left: 400px;
+}
+
+.mic {
+    width: 20px;
+    height: 20px;
+    margin-left: 500px;
+}
+
